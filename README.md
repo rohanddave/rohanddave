@@ -3,7 +3,7 @@
 #### A Computer Science Grad Student by day ☼ and a Full Stack Developer by night ☾
 
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.swift`, `.java`, `.kotlin`, `.py`, `.html`
-- 🔭 I’m currently looking for Software Engineer/Full Stack/Mobile Engineer roles
+- 🔭 I’m currently looking for Backend Software Engineer/Full Stack/Mobile Engineer roles
 - 🌱 I’m currently learning **Golang**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Full Stack Mobile Development**
