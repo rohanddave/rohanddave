@@ -38,20 +38,19 @@ MS Computer Science @ Northeastern University · Mountain View, CA
 
 ---
 
-### Selected Projects
+### Pinned Projects
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| **Tessa** | Python · LangGraph · Pinecone · Neo4j · Redis | Agentic RAG system with AST-aware code indexing and multi-agent orchestration |
-| **GoChain** | Go | Blockchain implementation with ERC-20 token support |
-| **LiftCrew** | Java · Spring Boot · PostgreSQL | Distributed social fitness backend with real-time sync |
-| **OnePrediction** | Java · Spring Boot | Soccer prediction engine serving 5K+ users |
+| [**tessa-api**](https://github.com/rohanddave/tessa-api) | Python · LangChain · LangGraph · Pinecone · Neo4j | Agentic RAG system — multi-agent orchestration with tool use, retrieval, and reasoning over code and docs |
+| [**liftcrew-api**](https://github.com/rohanddave/liftcrew-api) | Java | Real-time collaborative workout API with live session sync and shared state |
+| [**oneprediction-backend**](https://github.com/rohanddave/oneprediction-backend) | Java · Spring Boot | Soccer prediction API serving 5K+ users with match analytics and scoring engine |
+| [**image-processor**](https://github.com/rohanddave/image-processor) | Java · MVC | Photoshop-like image editor with GUI + CLI, layered filters, and concurrent processing |
+| [**rideshare**](https://github.com/rohanddave/rideshare) | C++ | Concurrent rideshare simulation — multithreading, synchronization, and shared resource management |
+| [**pokemon-rpg-java**](https://github.com/rohanddave/pokemon-rpg-java) | Java | Turn-based RPG built with OOP principles — inheritance, polymorphism, and strategy patterns |
 
 ---
 
 ### GitHub Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rohanddave&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanddave&layout=compact&theme=default&hide_border=true" />
-</p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanddave&" alt="rohanddave" /></p>
