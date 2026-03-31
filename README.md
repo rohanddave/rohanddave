@@ -16,7 +16,7 @@ MS Computer Science @ Northeastern University · Mountain View, CA
 
 ### Currently
 
-- Building [Tessa](https://github.com/rohanddave) — an agentic RAG system using LangGraph, Neo4j, Pinecone, and Elasticsearch
+- Building [Tessa](https://github.com/rohanddave/tessa) — a RAG system
 - Exploring concurrency patterns, distributed consensus, and systems design
 - Coursework in Foundations of Generative AI (normalizing flows, VAEs, diffusion models)
 
