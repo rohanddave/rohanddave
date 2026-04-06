@@ -42,7 +42,7 @@ MS Computer Science @ Northeastern University · Mountain View, CA
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [**tessa**]([https://github.com/rohanddave/tessa-api](https://github.com/rohanddave/tessa)) | Go · C++ · Python · LangChain · LangGraph · Pinecone · Neo4j | RAG system with retrieval, and reasoning over code and docs |
+| [**tessa**](https://github.com/rohanddave/tessa) | Go · C++ · Python · LangChain · LangGraph · Pinecone · Neo4j | RAG system with retrieval, and reasoning over code and docs |
 | [**liftcrew-api**](https://github.com/rohanddave/liftcrew-api) | Java | Real-time collaborative workout API with live session sync and shared state |
 | [**oneprediction-backend**](https://github.com/rohanddave/oneprediction-backend) | Java · Spring Boot | Soccer prediction API serving 5K+ users with match analytics and scoring engine |
 | [**image-processor**](https://github.com/rohanddave/image-processor) | Java · MVC | Photoshop-like image editor with GUI + CLI, layered filters, and concurrent processing |
