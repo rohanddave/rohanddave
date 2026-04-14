@@ -43,11 +43,9 @@ MS Computer Science @ Northeastern University · Mountain View, CA
 | Project | Stack | Description |
 |---------|-------|-------------|
 | [**tessa**](https://github.com/rohanddave/tessa) | Go · C++ · Python · LangChain · LangGraph · Pinecone · Neo4j | RAG system with retrieval, and reasoning over code and docs |
-| [**liftcrew-api**](https://github.com/rohanddave/liftcrew-api) | Go | Real-time collaborative workout API with live session sync and shared state |
 | [**oneprediction-backend**](https://github.com/rohanddave/oneprediction-backend) | Go | Soccer prediction API serving 5K+ users with match analytics and scoring engine |
-| [**image-processor**](https://github.com/rohanddave/image-processor) | Java · MVC | Photoshop-like image editor with GUI + CLI, layered filters, and concurrent processing |
 | [**rideshare**](https://github.com/rohanddave/rideshare) | C++ | Concurrent rideshare simulation — multithreading, synchronization, and shared resource management |
-| [**pokemon-rpg-java**](https://github.com/rohanddave/pokemon-rpg-java) | C++ | Turn-based RPG built with OOP principles — inheritance, polymorphism, and strategy patterns |
+| [**pokemon-rpg**](https://github.com/rohanddave/pokemon-rpg-java) | C++ | Turn-based RPG built with OOP principles — inheritance, polymorphism, and strategy patterns |
 
 ---
 
