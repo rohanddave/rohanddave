@@ -24,17 +24,17 @@ MS Computer Science @ Northeastern University · Mountain View, CA
 
 ### Tech Stack
 
-**Languages** · Java · Python · TypeScript · Go · SQL
+**Languages** · Go · C++ · Python · SQL
 
-**Backend** · Spring Boot · Node.js · Express · NestJS · Django · Flask · GraphQL · REST
+**Backend** · Gin · GORM · FastAPI · GraphQL · REST · gRPC
 
 **Data & AI** · PyTorch · LangChain/LangGraph · Pinecone · Elasticsearch · Redis · Neo4j
 
 **Databases** · PostgreSQL · MongoDB · MySQL · SQLite
 
-**Infrastructure** · AWS · Docker · Kafka · RabbitMQ · Jenkins · Nginx · Git
+**Infrastructure** · AWS · Docker · Kafka · RabbitMQ · Git
 
-**Search & Observability** · Elasticsearch · Apache Solr
+**Search & Observability** · Elasticsearch
 
 ---
 
@@ -43,11 +43,11 @@ MS Computer Science @ Northeastern University · Mountain View, CA
 | Project | Stack | Description |
 |---------|-------|-------------|
 | [**tessa**](https://github.com/rohanddave/tessa) | Go · C++ · Python · LangChain · LangGraph · Pinecone · Neo4j | RAG system with retrieval, and reasoning over code and docs |
-| [**liftcrew-api**](https://github.com/rohanddave/liftcrew-api) | Java | Real-time collaborative workout API with live session sync and shared state |
-| [**oneprediction-backend**](https://github.com/rohanddave/oneprediction-backend) | Java · Spring Boot | Soccer prediction API serving 5K+ users with match analytics and scoring engine |
+| [**liftcrew-api**](https://github.com/rohanddave/liftcrew-api) | Go | Real-time collaborative workout API with live session sync and shared state |
+| [**oneprediction-backend**](https://github.com/rohanddave/oneprediction-backend) | Go | Soccer prediction API serving 5K+ users with match analytics and scoring engine |
 | [**image-processor**](https://github.com/rohanddave/image-processor) | Java · MVC | Photoshop-like image editor with GUI + CLI, layered filters, and concurrent processing |
 | [**rideshare**](https://github.com/rohanddave/rideshare) | C++ | Concurrent rideshare simulation — multithreading, synchronization, and shared resource management |
-| [**pokemon-rpg-java**](https://github.com/rohanddave/pokemon-rpg-java) | Java | Turn-based RPG built with OOP principles — inheritance, polymorphism, and strategy patterns |
+| [**pokemon-rpg-java**](https://github.com/rohanddave/pokemon-rpg-java) | C++ | Turn-based RPG built with OOP principles — inheritance, polymorphism, and strategy patterns |
 
 ---
 
